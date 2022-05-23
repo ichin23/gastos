@@ -1,0 +1,6 @@
+package com.example.gastosv2
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
